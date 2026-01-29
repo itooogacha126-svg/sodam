@@ -54,7 +54,7 @@ https://nkkmt.stars.ne.jp/koreafood_sodam/html/
 - 店舗情報ページ・プライバシーポリシーページのCSS実装
 - **予約ページの実装（フロントエンド・バックエンド）**
 
-### 担当範囲の詳細
+### 予約ページの担当範囲の詳細
 
 - **フロントエンド**：デザイン、HTML、CSS
 - **バックエンド**：
@@ -64,6 +64,14 @@ https://nkkmt.stars.ne.jp/koreafood_sodam/html/
   - ログイン／ログアウト機能
   - 予約履歴確認機能
   - 会員情報確認機能
+
+<p align="center">
+  <img src="./images/sodam_reserve.gif" alt="新規予約画面" width="30%" />
+  <img src="./images/loginpage.png" alt="ログイン画面" width="30%" />
+  <img src="./images/mypage.png" alt="マイページ" width="30%" />
+</p>
+
+左から、**新規予約画面 → ログイン画面 → マイページ**の順です。  
 
 ---
 
