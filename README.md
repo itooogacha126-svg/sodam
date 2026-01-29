@@ -65,7 +65,9 @@ https://nkkmt.stars.ne.jp/koreafood_sodam/html/
   - 予約履歴確認機能
   - 会員情報確認機能
 
-  ![新規予約画面](./images/sodam_reserve.gif)
+<p align="center">
+  <img src="./images/sodam_reserve.gif" alt="新規予約画面" width="40%" />
+</p>
 
 ---
 
